@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/notesScience/static/css/main.e6c13ad2.css",
+    "main.js": "/notesScience/static/js/main.c05e9d8f.js",
+    "static/js/453.aea5b063.chunk.js": "/notesScience/static/js/453.aea5b063.chunk.js",
+    "static/media/mern.png": "/notesScience/static/media/mern.bfd929c1046da72f1686.png",
+    "index.html": "/notesScience/index.html",
+    "main.e6c13ad2.css.map": "/notesScience/static/css/main.e6c13ad2.css.map",
+    "main.c05e9d8f.js.map": "/notesScience/static/js/main.c05e9d8f.js.map",
+    "453.aea5b063.chunk.js.map": "/notesScience/static/js/453.aea5b063.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.c05e9d8f.js"
+  ]
+}
